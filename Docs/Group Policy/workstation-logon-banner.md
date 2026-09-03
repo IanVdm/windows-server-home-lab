@@ -45,3 +45,5 @@ After restarting, the configured logon message was displayed before the Windows 
 The GPO was successfully applied to ```WIN01```.
 
 This demonstrates the ability to create, configure, link, and verify a GPO within an AD environment.
+
+![Logon banner](../../Screenshots/GPO%20logon%20banner.PNG)

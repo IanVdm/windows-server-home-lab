@@ -66,3 +66,5 @@ The command was re-run from an elevated PowerShell session using **Run as admini
 The Windows Firewall GPO was successfully created, linked to the ```Workstations``` OU, and applied to ```WIN01```.
 
 This demonstrated centralised firewall management through AD GP.
+
+![windows firewall](../../Screenshots/GP0%20windows%20firewall%20results.PNG)
