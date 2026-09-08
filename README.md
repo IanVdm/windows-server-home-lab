@@ -26,10 +26,11 @@ Build a virtualised Windows environment to gain hands-on experience with Windows
 - [x] Configured DHCP
 - [x] Created Windows 11 client
 - [x] Joined Windows 11 client to domain
-- [ ] Create OUs and security groups
-- [ ] Create domain users
-- [ ] Configure Group Policy
-- [ ] Configure file shares and NTFS permissions
-- [ ] Practice troubleshooting
+- [x] Create OUs and security groups
+- [x] Create domain users
+- [x] Configure Group Policy
+- [x] Configure file shares and NTFS permissions
+- [x] Practice troubleshooting
+- [x] Automate administrative tasks with PowerShell
 - [ ] Add Linux server
-- [ ] Automate administrative tasks with PowerShell/Python
+
